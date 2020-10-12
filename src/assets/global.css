@@ -1,0 +1,16 @@
+ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+/* tab标签页的默认样式 */
+.el-tabs__header{
+  margin: 0;
+}
+.el-tabs__nav{
+  height: 56px;
+  line-height: 56px;
+}
+.el-tabs__nav-scroll{
+  padding-left: 40px;
+}
