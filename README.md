@@ -1,4 +1,4 @@
-# city_selector
+# city_selector（仿携程城市选择器）
 
 ## Project setup
 ```
